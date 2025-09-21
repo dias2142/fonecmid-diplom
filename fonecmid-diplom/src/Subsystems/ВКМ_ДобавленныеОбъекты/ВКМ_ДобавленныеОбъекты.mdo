@@ -1,9 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="56bbadae-d986-4874-8c71-c22450ad69f2">
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cf28852d-cecf-4f2b-becf-f3ca5dc37111">
   <name>ВКМ_ДобавленныеОбъекты</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ добавленные объекты</value>
+    <value>Добавленные объекты</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
+  <content>Enum.ВКМ_КатегорияСотрудника</content>
+  <content>Catalog.ВКМ_Сотрудники</content>
+  <content>Catalog.ВКМ_ГрафикиРаботы</content>
+  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
+  <content>DataProcessor.ВКМ_ЗаполненияГрафика</content>
+  <content>Constant.ВКМ_СтавкаНДФЛ</content>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
+  <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>Document.ВКМ_НачислениеЗаработнойПлаты</content>
+  <content>Document.ВКМ_НачислениеФиксированныхПремий</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>AccumulationRegister.ВКМ_ВыполненыеСотрудникомРаботы</content>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Role.ВКМ_ДобавлениеИзменентеДокументовРасчетаЗПОтпусков</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>Catalog.ВКМ_Уведомления</content>
+  <content>CommonModule.ВКМ_Телеграмм</content>
+  <content>Constant.ВКМ_ТокенТелеграммБота</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыТелеграмм</content>
+  <content>ScheduledJob.ВКМ_ПередачаУведомленийВТелеграмм</content>
+  <content>Role.ВКМ_ОбслуживаниеКлиентовМенеджер</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_ОбслуживаниеКлиентовСозданиеАктов</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>InformationRegister.ВКМ_Отпуска</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>AccumulationRegister.ВКМ_ВыставленныеАкты</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Document.ВКМ_УстановкаОкладов</content>
+  <content>CommonCommand.ВКМ_Настройки</content>
 </mdclass:Subsystem>
